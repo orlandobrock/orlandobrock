@@ -1,6 +1,6 @@
 ## Orlando Brock 🧑‍💻
 
-Me chamo Orlando, tenho 19 anos, moro em Gravataí, sou formado em Informatica para Internet pelo IFSUL.
+Me chamo Orlando, tenho 20 anos, moro em Gravataí, sou formado em Informatica para Internet pelo IFSUL.
 
 ## 📋 Skills
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
